@@ -38,6 +38,12 @@ textarea {
 	color: #FFF;
 	font-size: 21px;
 }
+.quantityBlock li {
+    width: 90px;
+}
+.quantity-table .title-header {
+    width: 90px;
+}
 ::selection {
 	color: #FFF;
 	background: #ff4200;
